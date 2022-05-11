@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuliderDesignPattern", "BuliderDesignPattern\BuliderDesignPattern.csproj", "{B236A642-FBB7-4E6C-9267-6B3B620C16C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderTirgul", "BuilderTirgul\BuilderTirgul.csproj", "{BD8AB2CF-0CE1-497C-A533-B57D7BA69B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeTirgul", "PrototypeTirgul\PrototypeTirgul.csproj", "{DE272BFD-0B1B-44AC-8805-0193B2098FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesginPetternTirgul", "ProxyDesginPetternTirgul\ProxyDesginPetternTirgul.csproj", "{00DEA271-22DB-4CF1-B610-EFBE2FEAE8F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyTirgull", "StrategyTirgull\StrategyTirgull.csproj", "{DB7A7A10-9387-4F70-809C-AD80D0AD2894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeTirgull", "CompositeTirgull\CompositeTirgull.csproj", "{FD3DA805-BDA8-411C-93F2-638C5D489984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B236A642-FBB7-4E6C-9267-6B3B620C16C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B236A642-FBB7-4E6C-9267-6B3B620C16C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B236A642-FBB7-4E6C-9267-6B3B620C16C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B236A642-FBB7-4E6C-9267-6B3B620C16C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8AB2CF-0CE1-497C-A533-B57D7BA69B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8AB2CF-0CE1-497C-A533-B57D7BA69B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8AB2CF-0CE1-497C-A533-B57D7BA69B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8AB2CF-0CE1-497C-A533-B57D7BA69B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE272BFD-0B1B-44AC-8805-0193B2098FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE272BFD-0B1B-44AC-8805-0193B2098FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE272BFD-0B1B-44AC-8805-0193B2098FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE272BFD-0B1B-44AC-8805-0193B2098FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DEA271-22DB-4CF1-B610-EFBE2FEAE8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DEA271-22DB-4CF1-B610-EFBE2FEAE8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DEA271-22DB-4CF1-B610-EFBE2FEAE8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DEA271-22DB-4CF1-B610-EFBE2FEAE8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB7A7A10-9387-4F70-809C-AD80D0AD2894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7A7A10-9387-4F70-809C-AD80D0AD2894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7A7A10-9387-4F70-809C-AD80D0AD2894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7A7A10-9387-4F70-809C-AD80D0AD2894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3DA805-BDA8-411C-93F2-638C5D489984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3DA805-BDA8-411C-93F2-638C5D489984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3DA805-BDA8-411C-93F2-638C5D489984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3DA805-BDA8-411C-93F2-638C5D489984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A8E4056-0EA1-4047-B020-AD9AABB38D0B}
+	EndGlobalSection
+EndGlobal
